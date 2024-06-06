@@ -1,5 +1,5 @@
 # IPTV
-MADEBYJABR
+MADE by Jo Anthony B. Rodriguez
 
 ANC HD
 CARTOON NETWORK ASIA (sg)
