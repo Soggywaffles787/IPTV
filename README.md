@@ -1,5 +1,6 @@
 # IPTV
 MADE by Jo Anthony B. Rodriguez
+IPTV LINK: https://raw.githubusercontent.com/Soggywaffles787/IPTV/main/JABR.m3u
 
 ANC HD
 CARTOON NETWORK ASIA (sg)
