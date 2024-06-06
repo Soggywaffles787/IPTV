@@ -274,3 +274,6 @@ https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV FHD" 
 https://epg.pw/stream/81faae6454f526291a58ec33ae51856a9430375c91e9f9068996d1e9776054a6.ctv
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG14.png" group-title="NBA/WNBA LEAGUE",US: NBA TV
+http://ckservices.se:25461/ckthristleg/02007/87351
