@@ -271,3 +271,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV FHD" 
+https://epg.pw/stream/81faae6454f526291a58ec33ae51856a9430375c91e9f9068996d1e9776054a6.ctv
